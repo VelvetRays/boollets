@@ -15,7 +15,7 @@
         <div id="spinner"></div>
     </div>
     <div id="header" class="animated slideInDown" style="animation-delay:1.8s;">
-    <div id="title">yourname.</div><br>
+    <div id="title">Boollets.</div><br>
     <div id="links">
         <a href="#skills">skills</a>
         <a href="#work" style="margin:0px 60px;">works</a>
@@ -78,7 +78,7 @@
              </div>
     </div>
     <div id="footer">
-        made on earth by a human <br><br> <a href="https://imfunniee.github.io">imfunniee</a>
+        [contact info]
     </div>
 <script src="index.js" type="text/javascript"></script>
 </body>
